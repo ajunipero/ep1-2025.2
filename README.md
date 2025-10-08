@@ -10,26 +10,28 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 
 ## Dados do Aluno
 
-- **Nome completo:** [Preencher aqui]
-- **Matrícula:** [Preencher aqui]
-- **Curso:** [Preencher aqui]
-- **Turma:** [Preencher aqui]
+- **Nome completo:** Juliana Silva Teixeira
+- **Matrícula:** 241011958
+- **Curso:** Engenharia de Software
+- **Turma:** Orientação Objetos - Lucas Boaventura
 
 ---
 
 ## Instruções para Compilação e Execução
 
 1. **Compilação:**  
-   [Descrever aqui como compilar o projeto. Exemplo: `javac Main.java` ou o script usado]
+   `javac Main.java`
 
 2. **Execução:**  
-   [Descrever aqui como executar o projeto. Exemplo: `java Main` ou o script usado]
+   `java Main`
 
 3. **Estrutura de Pastas:**  
-   [Descrever aqui as principais pastas do projeto]
+   src > hospital, main > model, service
+   model > entidades do sistema
+   service > classes de servico 
 
 3. **Versão do JAVA utilizada:**  
-   [Descrever aqui como versão do JAVA utilizada no projeto. Sugestão: `java 21`]
+   openjdk-24
 
 ---
 
@@ -42,13 +44,13 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 ## Prints da Execução
 
 1. Menu Principal:  
-   ![Inserir Print 1](caminho/do/print1.png)
+   ![Print 1](https://imgur.com/a/2Yg0hsf)
 
 2. Cadastro de Médico:  
-   ![Inserir Print 2](caminho/do/print2.png)
+   ![Print 2](https://imgur.com/ViLO73D)
 
-3. Relatório de ?:  
-   ![Inserir Print 3](caminho/do/print3.png)
+3. Menu de Relatorios:  
+   ![Print 3](https://imgur.com/qf7bG6F)
 
 ---
 
@@ -56,13 +58,21 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 
 ## Observações (Extras ou Dificuldades)
 
-- [Espaço para o aluno comentar qualquer funcionalidade extra que implementou, dificuldades enfrentadas, ou considerações importantes.]
+- Implementação de relatórios diversos:
+Pacientes Cadastrados (com Histórico)
+Médicos Cadastrados (com Agenda)
+Consultas Futuras e Passadas (Filtros a implementar)
+Pacientes Internados no Momento
+Estatísticas Gerais
+Estatísticas de Internação
 
+funcionalidade de triagem:
+Triagem e Fila de Prioridade
 ---
 
 ## Contato
 
-- [Opcional: E-mail pessoal do aluno.]
+- ahjulianateixeira@gmail.com
 
 ---
 
