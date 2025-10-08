@@ -826,13 +826,13 @@ private static void executarMenuPrincipal() {
     int opcao = -1;
     while (opcao != 0) {
         exibirOpcoesMenu();
-        print("Escolha uma opção: ");
+        System.out.print("Escolha uma opção: ");
 
         try {
             String input = scanner.nextLine();
             opcao = Integer.parseInt(input);
         } catch (NumberFormatException e) {
-            println("\n [ERRO] Opção inválida! Digite um número de 0 a 6. \n");
+            System.out.println("\n [ERRO] Opção inválida! Digite um número de 0 a 6. \n");
         }
 
         //Menu principal
@@ -886,7 +886,7 @@ private static void CarregaDados() {
 
 
 public static void main() {
-    print("--- Sistema Hospital Core ---");
+    System.out.print("--- Sistema Hospital Core ---");
     CarregaDados();
 
     executarMenuPrincipal();
