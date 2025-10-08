@@ -44,13 +44,13 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 ## Prints da Execução
 
 1. Menu Principal:  
-   ![Print 1](https://imgur.com/a/2Yg0hsf)
+   ![Print 1](https://github.com/ajunipero/ep1-2025.2/blob/main/prints/Captura%20de%20tela%202025-10-07%20223501.png)
 
 2. Cadastro de Médico:  
-   ![Print 2](https://imgur.com/ViLO73D)
+   ![Print 2](https://github.com/ajunipero/ep1-2025.2/blob/main/prints/Captura%20de%20tela%202025-10-07%20223648.png)
 
 3. Menu de Relatorios:  
-   ![Print 3](https://imgur.com/qf7bG6F)
+   ![Print 3](https://github.com/ajunipero/ep1-2025.2/blob/main/prints/Captura%20de%20tela%202025-10-07%20223749.png)
 
 ---
 
